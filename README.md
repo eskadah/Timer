@@ -2,8 +2,8 @@
 
 Install ios sim from your package manager (homebrew, macports,etc)
 
-   ```brew
-      install ios-sim
+   ```bash
+      brew install ios-sim
    ```
 
 Then in your rails server directory for the Hello 200 product run the `frank_listener`.
